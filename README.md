@@ -1,6 +1,7 @@
 # git-dersleri
 
-## Projenin Amacı
+### Projenin Amacı
+
 
 **kelime** <br/>
 *italic*
